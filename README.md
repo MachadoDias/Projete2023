@@ -1,47 +1,49 @@
-# ❓ Projete 2023 — JAP (Jogo de Adivinhação de Palavras)
+> 🇧🇷 [Versão em português](./README.pt.md)
 
-🏆 Projeto vencedor da categoria **"Melhor Apresentação em Inglês"**
+# ❓ Projete 2023 — JAP (Word Guessing Game)
 
----
-
-Repositório dos códigos da **Projete 2023**, um jogo de adivinhação de palavras no estilo do **Termo**, desenvolvido em **C++** utilizando **Arduino**.  
-O jogo foi adaptado para permitir que **dois jogadores** participem: o primeiro define a palavra por meio de um teclado matricial, enquanto o segundo tenta adivinhá-la usando cartões com sensores de radiofrequência (RFID).
-
-> ⚠️ *Este foi o nosso primeiro projeto. Ele pode conter trechos que hoje seriam otimizados.*
+🏆 Awarded **"Best Presentation in English"** at Projete 2023
 
 ---
 
-## 🔧 Tecnologias
+Repository for the code of **Projete 2023**, a word guessing game inspired by **Termo**, developed in **C++** using **Arduino**.  
+The game was adapted to allow **two players**: one sets the secret word using a keypad, while the other tries to guess it using cards equipped with **RFID** sensors.
+
+> ⚠️ *This was our first project. Some parts of the code could be optimized today.*
+
+---
+
+## 🔧 Technologies
 
 - **C++**
 - **Arduino**
 
 ---
 
-## 🧩 Principais Componentes
+## 🧩 Key Components
 
 - Arduino Mega  
-- LEDs RGB  
-- Teclado matricial  
-- Leitor RFID  
-- Multiplexador de sinais  
-- Display LCD 16x2
+- RGB LEDs  
+- Matrix keypad  
+- RFID reader  
+- Signal multiplexer  
+- 16x2 LCD Display
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Tools Used
 
 - **IDE:** Arduino IDE  
 
 ---
 
-## 👨‍🏫 Projeto Acadêmico
+## 👨‍🏫 Academic Project
 
-### Professor orientador:
+### Advisor:
 - Alan Lemes
 
-### Integrantes:
+### Team members:
 - [Felipe Cunha](https://github.com/De-Bochi)  
 - [Gabriel Machado](https://github.com/MachadoDias)  
 - [Guilherme Vilas](https://github.com/Lint-89)  
-- [Vinícius Amaral](https://github.com/viniciusamaralvilela)  
+- [Vinícius Amaral](https://github.com/viniciusamaralvilela)
