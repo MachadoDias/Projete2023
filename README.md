@@ -6,7 +6,7 @@
 
 ---
 
-Repository for the code of **Projete 2023**, a word guessing game inspired by **Termo**, developed in **C++** using **Arduino**.  
+Repository for the code of **Projete 2023**, a word guessing game inspired by **Wordle**, developed in **C++** using **Arduino**.  
 The game was adapted to allow **two players**: one sets the secret word using a keypad, while the other tries to guess it using cards equipped with **RFID** sensors.
 
 > ⚠️ *This was our first project. Some parts of the code could be optimized today.*
