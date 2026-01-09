@@ -1,6 +1,6 @@
 > 🇺🇸 [English version](./README.md)
 
-# ❓ Projete 2023 — JAP (Jogo de Adivinhação de Palavras)
+# Projete 2023 — JAP (Jogo de Adivinhação de Palavras)
 
 🏆 Projeto vencedor da categoria **"Melhor Apresentação em Inglês"**
 
@@ -13,14 +13,14 @@ O jogo foi adaptado para permitir que **dois jogadores** participem: o primeiro 
 
 ---
 
-## 🔧 Tecnologias
+## Tecnologias
 
 - **C++**
 - **Arduino**
 
 ---
 
-## 🧩 Principais Componentes
+## Principais Componentes
 
 - Arduino Mega  
 - LEDs RGB  
@@ -31,13 +31,13 @@ O jogo foi adaptado para permitir que **dois jogadores** participem: o primeiro 
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **IDE:** Arduino IDE  
 
 ---
 
-## 👨‍🏫 Projeto Acadêmico
+## Projeto Acadêmico
 
 ### Professor orientador:
 - Alan Lemes
