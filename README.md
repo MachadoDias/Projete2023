@@ -1,6 +1,6 @@
 > 🇧🇷 [Versão em português](./README.pt.md)
 
-# ❓ Projete 2023 — JAP (Word Guessing Game)
+# Projete 2023 — JAP (Word Guessing Game)
 
 🏆 Awarded **"Best Presentation in English"** at Projete 2023
 
@@ -13,14 +13,14 @@ The game was adapted to allow **two players**: one sets the secret word using a 
 
 ---
 
-## 🔧 Technologies
+## Technologies
 
 - **C++**
 - **Arduino**
 
 ---
 
-## 🧩 Key Components
+## Key Components
 
 - Arduino Mega  
 - RGB LEDs  
@@ -31,13 +31,13 @@ The game was adapted to allow **two players**: one sets the secret word using a 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **IDE:** Arduino IDE  
 
 ---
 
-## 👨‍🏫 Academic Project
+## Academic Project
 
 ### Advisor:
 - Alan Lemes
